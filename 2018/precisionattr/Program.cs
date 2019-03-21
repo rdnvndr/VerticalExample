@@ -46,7 +46,7 @@ namespace searchattrbad
 							logFile.WriteLine(cls.Name + "." + prop.Name);
 							continue;
 						}
-						var dRestriction = prop.ValueRestrictions as TechMeasurandValueRestrictions;
+						var dRestriction = prop.ValueRestrictions as TechDoubleValueRestrictions;
 						if (dRestriction != null && mRestriction.Precision >= 0) {
 							logFile.WriteLine(cls.Name + "." + prop.Name);
                                                         continue;
