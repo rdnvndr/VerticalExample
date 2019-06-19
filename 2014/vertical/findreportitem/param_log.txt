@@ -1,0 +1,1 @@
+    obj_line_count = 11    obj_rect_count = 1    obj_text_block_count = 16    obj_image_count = 2    obj_table_count = 24    obj_table_cell_count = 392    obj_cell_count = 0    obj_group_count = 0    obj_subst_count = 8    obj_class_count = 12    obj_attr_count = 17    obj_complexattr_count = 2
