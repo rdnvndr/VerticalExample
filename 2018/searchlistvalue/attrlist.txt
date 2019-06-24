@@ -1,0 +1,35 @@
+СПИСОК АТРИБУТОВ СО СПИСКАМИ ЗНАЧЕНИЙ:
+--------------------------------------
+    changing.code_motive
+    dseunit.litera1
+    dseunit.litera2
+    dseunit.litera3
+    sub_material.group
+    trm_mode.type
+    trm_mode.ambient
+    linearcut_oper.pad
+    multispindel_oper.type_feature1
+    multispindel_oper.type_feature2
+    multispindel_oper.type_feature3
+    multispindel_oper.type_feature4
+    pok_oper.type_coloring
+    parameter.param
+    program_nc.status
+    program_nc.conclusion
+    request.sequence
+    sketch.format
+    linearcut_step.opr
+    linearcut_step.direction
+    multispindel_step.opr
+    singlespindel_step.direction
+    singlespindel_step.opr
+    pok_step.typesurface
+    pok_step.number_layer
+    sub_step.norm_step_type
+    assembly_tool.nk
+    ri.nk
+    ttp.typettp
+    ttp.litera1
+    ttp.litera2
+    ttp.litera3
+    semiproduct.vid
