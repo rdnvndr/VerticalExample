@@ -17,8 +17,8 @@ for /f "delims=" %%a in ('where /R %windir%\Microsoft.NET\assembly\GAC_MSIL\Asco
 for /f "delims=" %%a in ('where /R %windir%\Microsoft.NET\Framework64\ csc.exe ^| findstr %csc_ver%') do set "CSC=%%a"
 
 set VRT=%ProgramFiles%\ASCON\Vertical
-IF EXIST %VRT% GOTO EXISTDIR
-  set VRT=%ProgramFiles%\ASCON\Vertical
+IF EXIST "%VRT%" GOTO EXISTDIR
+  set VRT=%ProgramFiles(x86)%\ASCON\Vertical
 
 :EXISTDIR
 
